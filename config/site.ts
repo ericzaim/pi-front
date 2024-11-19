@@ -1,12 +1,12 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Next.js + NextUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: "PI 4° Semestre",
+  description: "Projeto integrador 4° Semestre",
   navItems: [
    //labels da barra de navegação
     {
-      label: "Home",
+      label: "Início",
       href: "/",
     },
     {
@@ -67,6 +67,7 @@ export const siteConfig = {
     docs: "https://nextui.org",
     discord: "https://discord.gg/9b6yyZKmH4",
     sponsor: "https://patreon.com/jrgarciadev",
-    teste: "https://www.youtube.com/watch?v=2Mvq3k2rU8M"
+    teste: "https://www.youtube.com/watch?v=2Mvq3k2rU8M",
+    começar:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
 };
